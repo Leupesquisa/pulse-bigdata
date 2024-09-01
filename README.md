@@ -15,7 +15,7 @@ The project utilizes a combination of modern and widely adopted technologies in 
 * **Spring Security:** Used to configure application security, manage authentication and authorization.
 * **Jakarta EE:** Set of specifications used for developing robust and scalable enterprise applications.
 * **JWT (JSON Web Token):** Token-based authentication standard used for user authentication and API endpoint protection.
-* **H2 Database:** In-memory database used for testing and local development.
+* **Mongo DB:** NO SQL database used for testing and local development.
 * **JUnit 5:** Testing framework used to write and execute unit tests.
 * **Mockito:** Framework for creating mocks, used in tests to simulate the behavior of external components.
 * **Maven:** Build automation and dependency management tool.
